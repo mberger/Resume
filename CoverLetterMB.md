@@ -1,5 +1,4 @@
 
-
 # Michael Berger
 
 Dear Hiring Manager:
