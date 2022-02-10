@@ -3,7 +3,7 @@
 
 # Michael Berger, MBA, CISSP
 
-**1941 Blackheath Rd. Knoxville, TN 37922**  **Phone: (865) 773-4285**  **Email: mberger@internetinnovation.com** 
+**1941 Blackheath Rd. Knoxville, TN 37922**  **Phone: (865) 773-4285**  **Email: mberger@internetinnovation.com**
 
 <table>
 <!-- <tr>
@@ -173,12 +173,12 @@ _Lincoln Memorial University - Knoxville, Tennessee_
 **Bachelor of Science - Nuclear Medicine (1993 - 1997)**
 
  _University of Tennessee, Knoxville - Knoxville, Tennessee_
- 
+
  | **Accomplishments** |
  |---------------------|
  | Disney Institue Leadership Escellence - Disney Institute |
- | Strategic Management for Competitive Advantage - USC Marshall School of Business | 
- | The Leadership Course - USC Marshall School of Business | 
+ | Strategic Management for Competitive Advantage - USC Marshall School of Business |
+ | The Leadership Course - USC Marshall School of Business |
 
 
 
@@ -190,28 +190,28 @@ _Lincoln Memorial University - Knoxville, Tennessee_
 
 **Knowledge and Skills**
 
-| **Core Strengths**                                     | **Technical Skills**                               | 
-|----------------------------------------------------|-------------------------------------------------------------| 
-| Servant Leadership                                 | Extensive experience Linux (many flavors)                                                        | 
-| trategic Planning and Operations                   | Strong experience with Amazon Web Services                                                       | 
-| Architectural Design                               | Systems Analysis, Design, and Implementation                                                     | 
-|  Cross Functional Team Leadership                  | Datacenter Operations and Management                                                             | 
-| Technical Support and Assistance                   | Windows                                                                                          | 
-| Project Management                                 | Solaris                                                                                          | 
-| Team Building, Leadership, Mentoring, and Training | MS Azure                                                                                         | 
-| ITIL v3 Foundations Certified                      | Google App Engine                                                                                | 
-| Incident Management                                | OSI and TCP/IP Protocol Stack                                                                    | 
-| Problem Management                                 | Internet Technologies (DHCP, DNS, SMTP, Active Directory)                                        | 
-| Knowledge Management                               | Security Technology (OpenVPN, IPTables, Firewalls, Cryptography, Virus Detection and Prevention) | 
-| Strong communication skills                        | Penetration Testing and Vulnerability Assessment (Nessus, Nmap, OWASP, Nikto, Metasploit, OSSEC) | 
-| Process Design                                     | Understanding of ISO 27001 series and NIST Framework                                             | 
-| Compliance Requirements                            | Deep understanding of MySQL                                                                      | 
-| Standards Development                              | Tomcat, JBoss, Jetty, Weblogic                                                                   | 
-| Proposal Development                               | Akamai                                                                                           | 
-| Vendor Management                                  | Cloud Security                                                                                   | 
-| IT Solutions Development                           | AWS Architect Certification                                                                      | 
-| Budgeting and Operational Cost Mgmt                | AWS SysOps Certification (in progress)                                                           | 
-| Policy and Procedure Creation                      | CISSP                                                                                            | 
-| Strategic and Valuation analysis                   |                                                                                                  | 
-| Infrastructure Financial Analysis                  |                                                                                                  | 
-| Innovative Application of Technology               |                                                              | 
+| **Core Strengths**                                     | **Technical Skills**                               |
+|----------------------------------------------------|-------------------------------------------------------------|
+| Servant Leadership                                 | Extensive experience Linux (many flavors)                                                        |
+| trategic Planning and Operations                   | Strong experience with Amazon Web Services                                                       |
+| Architectural Design                               | Systems Analysis, Design, and Implementation                                                     |
+|  Cross Functional Team Leadership                  | Datacenter Operations and Management                                                             |
+| Technical Support and Assistance                   | Windows                                                                                          |
+| Project Management                                 | Solaris                                                                                          |
+| Team Building, Leadership, Mentoring, and Training | MS Azure                                                                                         |
+| ITIL v3 Foundations Certified                      | Google App Engine                                                                                |
+| Incident Management                                | OSI and TCP/IP Protocol Stack                                                                    |
+| Problem Management                                 | Internet Technologies (DHCP, DNS, SMTP, Active Directory)                                        |
+| Knowledge Management                               | Security Technology (OpenVPN, IPTables, Firewalls, Cryptography, Virus Detection and Prevention) |
+| Strong communication skills                        | Penetration Testing and Vulnerability Assessment (Nessus, Nmap, OWASP, Nikto, Metasploit, OSSEC) |
+| Process Design                                     | Understanding of ISO 27001 series and NIST Framework                                             |
+| Compliance Requirements                            | Deep understanding of MySQL                                                                      |
+| Standards Development                              | Tomcat, JBoss, Jetty, Weblogic                                                                   |
+| Proposal Development                               | Akamai                                                                                           |
+| Vendor Management                                  | Cloud Security                                                                                   |
+| IT Solutions Development                           | AWS Architect Certification                                                                      |
+| Budgeting and Operational Cost Mgmt                | AWS SysOps Certification (in progress)                                                           |
+| Policy and Procedure Creation                      | CISSP                                                                                            |
+| Strategic and Valuation analysis                   |                                                                                                  |
+| Infrastructure Financial Analysis                  |                                                                                                  |
+| Innovative Application of Technology               |                                                              |
