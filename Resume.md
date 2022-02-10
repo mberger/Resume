@@ -30,7 +30,7 @@ Hands on leader, providing technical expertise and cross team leadership to a gr
 - Use Kubernetes, containers, cluster management and cloud native tools to provide efficiencies for day-to-day reliability of the platform.
 - Apply engineering mindset and development skills to IT operations to improve the overall observability, reliability and security of infrastructure and develop proactive incident detection, response and remediation.
 - Interface directly with senior staff members within the organization to discuss and assess compliance with policies, standards and procedures, suggest opportunities for improvement.
-- Work with development teams throughout the software life cycle ensuring sustainable software releases.
+- Coordination with development teams throughout the software life cycle.
 
 **Burwood Group** | Chicago, IL – (Remote based in Knoxville)
 
@@ -38,7 +38,7 @@ Hands on leader, providing technical expertise and cross team leadership to a gr
 
 **Manager, Cloud Operations and Delivery**
 
-Responsible for the vision, strategy, execution and of the Operations team. This includes building and maintaining a roadmap for the team, managing Agile project and ticket work, coaching team members and working directly with customers.
+Responsible for the vision, strategy, execution and management of Cloud Operations team. This includes building and maintaining a roadmap for the team, managing Agile project and ticket work, coaching team members and working directly with customers.
 
 - Managing, evolving, and coaching the team of Cloud and DevOps Engineers and Architects, responsible for the delivery of customer projects, including:
 - Google Cloud, AWS and MS Azure cloud strategy and migrations
