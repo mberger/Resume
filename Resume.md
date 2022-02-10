@@ -15,6 +15,50 @@ Business-savvy, Innovative, and impactful IT leader with 19+ years of Informatio
 
 **PROFESSIONAL EXPERIENCE**
 
+**Frame.io, an Adobe Company** | New York, New York – (Remote based in Knoxville)
+
+08/2020 – Present
+
+**SRE Manager**
+
+Hands on leader, providing technical expertise and cross team leadership to a growing SRE/infrastructure team. Maturing processes by defining and implementing SRE framework that develops SRE practice and all tenets of SRE. Provide vision and leadership to enable the execution of best-in-class engineering and operations practices which help improve reliability of Frame.io and build new features and services to improve business service reliability and customer experience.
+
+- Develop practice to accelerate the evolution of the core platform and its infrastructure
+- Design and implement SRE Framework, develop and improve monitoring and observability across the entire stack
+- Optimize systems for uptime, performance, and reliability based on the data gathered by observability tools.
+- Automate day to day functions such as deployment, rollbacks, build of code and provisioning infrastructure, failovers etc.
+- Use Kubernetes, containers, cluster management and cloud native tools to provide efficiencies for day-to-day reliability of the platform.
+- Apply engineering mindset and development skills to IT operations to improve the overall observability, reliability and security of infrastructure and develop proactive incident detection, response and remediation.
+- Interface directly with senior staff members within the organization to discuss and assess compliance with policies, standards and procedures, suggest opportunities for improvement.
+- Work with development teams throughout the software life cycle ensuring sustainable software releases.
+
+**Burwood Group** | Chicago, IL – (Remote based in Knoxville)
+
+08/2019 – 05/2020
+
+**Manager, Cloud Operations and Delivery**
+
+Responsible for the vision, strategy, execution and of the Operations team. This includes building and maintaining a roadmap for the team, managing Agile project and ticket work, coaching team members and working directly with customers.
+
+- Managing, evolving, and coaching the team of Cloud and DevOps Engineers and Architects, responsible for the delivery of customer projects, including:
+- Google Cloud, AWS and MS Azure cloud strategy and migrations
+- Application migrations, modernization of legacy applications, building infrastructure from code (Terraform)
+- Data Engineering and Analytics projects
+- Customer relationship management, helping ensure the success of our Cloud projects and ultimately the success of the customer
+- Business development and pre-sales activities, working Cloud and DevOps opportunities with the sales team and pre-sales engineers
+- Building DevOps features and functionality to evolve our production applications and service offerings, including features on:
+- Google Cloud Platform, AWS, Azure
+- Kubernetes and GKE
+- StackDriver and ScienceLogic monitoring
+- Jenkins / CloudBees
+- Terraform, Ansible, Chef
+- APM
+- Setting up Day 2 Operations for customers, including monitoring (StackDriver, ScienceLogic), logging (StackDriver, Elastic), and incident management.
+- Provide cloud security assessments, DevSecOps consulting, Compliance as Code implementations.
+- Monitoring and troubleshooting issues of the DevOps group’s production applications, running on Google’s Kubernetes Engine (GKE)
+- Leading all agile activities, including sprint planning, daily standups, sprint reviews and retrospectives.
+
+
 **Rackspace |** San Antonio, TX – (Remote based in Knoxville)
 
 06/2017 – Present
