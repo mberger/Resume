@@ -13,7 +13,7 @@
 
 Business-savvy, Innovative, and impactful IT leader with 19+ years of Information Technology industry experience. Michael is a highly motivated, distinguished, senior level technology leader with extensive experience in many areas of technology. He is a proven leader able to build high performing technology teams, systems, and processes. Michael is a customer-centric and operationally minded professional with experience leading internationally distributed remote teams and delivering outcomes that provide solutions tied to positive outcomes and business growth.
 
-**PROFESSIONAL EXPERIENCE**
+## **PROFESSIONAL EXPERIENCE**
 
 **Frame.io, an Adobe Company** | New York, New York – (Remote based in Knoxville)
 
