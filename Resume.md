@@ -19,7 +19,7 @@ Innovative, and impactful IT leader with 20+ years of industry experience. Micha
 
 08/2020 – Present
 
-**SRE Manager**
+**Senior Manager, Infrastructure and SRE**
 
 Hands on leader, providing technical expertise and cross team leadership to a growing SRE/infrastructure team. Maturing processes by defining and implementing SRE framework that develops SRE practice and all tenets of SRE. Provide vision and leadership to enable the execution of best-in-class engineering and operations practices which help improve reliability of Frame.io and build new features and services to improve business service reliability and customer experience.
 
